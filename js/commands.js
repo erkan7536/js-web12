@@ -3,7 +3,7 @@ whois = [
   "<br>",
   "16 yaşındayım, programlama ile ilgileniyorum 🤥",
   "Mersin'de yaşıyorum ve lise öğrencisiyim",
-  "Şuana kadar bir çok dilde bir çok bot kodladım ^_~",
+  "Şuana kadar bir çok dilde, bir çok bot kodladım ^_~",
   "Az çok bildiğim diller: C#, Lua, Python",
   "<br>"
 ];
