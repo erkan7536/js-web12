@@ -60,7 +60,7 @@ body {
     opacity: 0;
   }
   #liner::before {
-    color: #66ff00;
+    color: #cf2195;
     content: "root@user:~$";
   }
   #liner.password::before {
