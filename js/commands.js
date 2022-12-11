@@ -51,9 +51,9 @@ var sarki =
 
 help = [
   "<br>",
-  '<span class="command">whois</span>         Kim Bu Reco?',
-  '<span class="command">social</span>        Social Media',
-  '<span class="command">random</span>        Random Şarkı',
+  '<span class="command">whois</span>         Kim Bu Reco 😁?',
+  '<span class="command">social</span>        Sosyal Medya',
+  '<span class="command">random</span>        Random Şarkı(daha kodlamadım)',
   "<br>",
 ];
 
