@@ -1,9 +1,9 @@
 
 whois = [
   "<br>",
-  "16 yaşındayım, programlama ile ilgileniyorum 🤥",
+  "16 yaşındayım, süperim 🤗",
   "Mersin'de yaşıyorum ve lise öğrencisiyim",
-  "Şuana kadar bir çok dilde, bir çok bot kodladım ^_~",
+  "Şuana kadar bir çok dilde bir çok bot kodladım, bunlardan bir tanesi 'Spotify Follow Bot'",
   "Az çok bildiğim diller: C#, Lua, Python",
   "<br>"
 ];
@@ -51,9 +51,10 @@ var sarki =
 
 help = [
   "<br>",
-  '<span class="command">whois</span>         Kim Bu Reco 😁?',
-  '<span class="command">social</span>        Sosyal Medya',
-  '<span class="command">random</span>        Random Şarkı(daha kodlamadım)',
+  '<span class="command">Command:</span>         Just write "whois" or "social".',
+  '<span class="command">whois</span>    =>      Kim Bu Reco 😁?',
+  '<span class="command">social</span>   =>      Sosyal Medya Hesaplarım',
+  '<span class="command">random</span>   =>      Random Şarkı(daha kodlamadım)',
   "<br>",
 ];
 
