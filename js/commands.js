@@ -88,5 +88,5 @@ banner2 = [
 "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⠘⢿⣿⣿⣿⣿⡟⠁⣰⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀       ",
 "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠧⣈⣙⣛⣛⣉⣠⠜⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀        ",
 "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀         ",
-"<span class=\"color2\">Komutları Görmek Için</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
+"<span class=\"color2\">Komutları Görmek Için</span> <span class=\"command\">'help'</span><span class=\"color2\">yazınız.</span>",
 ]
