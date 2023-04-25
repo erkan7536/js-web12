@@ -1,24 +1,20 @@
 
 whois = [
   "<br>",
-  "16 yaşındayım, süperim 🤗",
-  "Mersin'de yaşıyorum ve lise öğrencisiyim",
-  "Şuana kadar bir çok dilde bir çok bot ve checker kodladım",
-  "Az çok bildiğim diller: C#, Lua, Python",
+  "15 yaşındayım,",
+  "Ahmet Kayayı çok severim",
   "<br>"
 ];
 
 
-var github = "https://github.com/Recoo31";
-var insta = "https://www.instagram.com/Recoo33_/";
-var youtubee = "https://www.youtube.com/c/Recoo31/"
-var spo = "https://open.spotify.com/user/31o7s4nzotukrxkjirmy6hoyg3p4?si=b8181d594b3543af"
+var insta = "https://www.instagram.com/jofirq";
+var dc = "https://discord.com/users/jofir#2221"
+var spo = "https://open.spotify.com/user/w30sxyvao7rlwb2643dprh143?si=d960e09ce1ac4c12"
 social = [
   "<br>",
-  'Youtube        <a href="' + youtubee + '" target="_blank">youtube/c/Recoo31' + "</a>",
-  'Instagram      <a href="' + insta + '" target="_blank">instagram/recoo33_' + '</a>',
-  'Spotify        <a href="'+spo+'"target="_blank">spotify/Recoo',   
-  'Github         <a href="' + github + '" target="_blank">github/Recoo31' + "</a>",   
+  'Instagram      <a href="' + insta + '" target="_blank">jofirq' + '</a>',
+  'Discord        <a href="'+dc+'"target="_blank">jofir#2221',
+  'Spotify        <a href="'+spo+'"target="_blank">jofir',
   "<br>"
 ];
 
@@ -52,9 +48,8 @@ var sarki =
 help = [
   "<br>",
   '<span class="command">Command:</span>         Just write "whois" or "social".',
-  '<span class="command">whois</span>    =>      Kim Bu Reco 😁?',
+  '<span class="command">whois</span>    =>      Kim Bu jofir 😁?',
   '<span class="command">social</span>   =>      Sosyal Medya Hesaplarım',
-  '<span class="command">random</span>   =>      Random Şarkı(daha kodlamadım)',
   "<br>",
 ];
 
