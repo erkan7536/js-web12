@@ -1,19 +1,18 @@
 
 whois = [
   "<br>",
-  "15 yaşındayım,",
-  "Ahmet Kayayı çok severim",
+  "Kaldırımda yürürken yanınızdan geçen biri,",
   "<br>"
 ];
 
 
-var insta = "https://www.instagram.com/jofirq";
 var dc = "https://discord.com/users/jofir#2221"
+var insta = "https://www.instagram.com/jofirq";
 var spo = "https://open.spotify.com/user/w30sxyvao7rlwb2643dprh143?si=d960e09ce1ac4c12"
 social = [
   "<br>",
-  'Instagram      <a href="' + insta + '" target="_blank">jofirq' + '</a>',
   'Discord        <a href="'+dc+'"target="_blank">jofir#2221',
+  'Instagram      <a href="' + insta + '" target="_blank">jofirq' + '</a>',
   'Spotify        <a href="'+spo+'"target="_blank">jofir',
   "<br>"
 ];
