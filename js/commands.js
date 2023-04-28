@@ -1,7 +1,7 @@
 
 whois = [
   "<br>",
-  "Kaldırımda yürürken yanınızdan geçen biri,",
+  "Kaldırımda yürürken yanınızdan geçen birisi,",
   "<br>"
 ];
 
